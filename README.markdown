@@ -1,8 +1,8 @@
 # arq_restore
 
-An open-source command-line utility for restoring from backups created by [Arq](http://www.haystacksoftware.com/arq/).
+An open-source command-line utility for restoring from backups created by [Arq](http://www.arqbackup.com/).
 
-Download arq_restore in binary form [here](http://sreitshamer.github.com/arq_restore/).
+Download arq_restore in binary form [here](http://arqbackup.github.io/arq_restore/).
 
 
 ## Usage
@@ -12,9 +12,14 @@ Use arq_restore to list the computers backed up to your destination, list folder
 Type `arq_restore` with no arguments to get help.
 
 
+## Prerequisites
+
+To compile, install OpenSSL 1.0.2.
+
+
 ## License
 
-    Copyright (c) 2009-2014, Stefan Reitshamer http://www.haystacksoftware.com
+    Copyright (c) 2009-2017, Haystack Software LLC http://www.haystacksoftware.com
 
     All rights reserved.
 
